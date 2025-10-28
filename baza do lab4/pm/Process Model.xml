@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="096C3FAA-C4DA-0E51-43D1-F59DB14AAFB9">
+<createdBy>sowif</createdBy>
+<createdTime>2025-10-21 15:43:53 UTC</createdTime>
+<ownerDesignName>magazyn</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

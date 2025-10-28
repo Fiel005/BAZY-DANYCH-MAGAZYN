@@ -1,0 +1,17 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="D51E9956-8973-6DFE-D57A-E5572C0532A7" name="Kategoria produktu">
+<createdBy>sowif</createdBy>
+<createdTime>2025-10-21 15:51:53 UTC</createdTime>
+<ownerDesignName>baza do lab4</ownerDesignName>
+<engineerTo>
+<item key="14E196B6-D878-4C5D-D830-946CE908CFB0" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+</Entity>

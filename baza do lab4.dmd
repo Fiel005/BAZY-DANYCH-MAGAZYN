@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="baza do lab4" id="62C50CAB-08AA-CFB2-FD1F-1B770D952D90" version="3.5">
+<createdBy>sowif</createdBy>
+<createdTime>2025-10-21 15:43:53 UTC</createdTime>
+<ownerDesignName>magazyn</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>62C50CAB-08AA-CFB2-FD1F-1B770D952D90</designId>
+</OSDM_Design>

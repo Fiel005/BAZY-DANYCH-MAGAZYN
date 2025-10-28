@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_30" directorySegmentName="seg_0" id="8084E1BE-AA41-6D5B-7DE3-3AEEFB4132CD">
+<createdBy>sowif</createdBy>
+<createdTime>2025-10-28 16:43:47 UTC</createdTime>
+<ownerDesignName>baza do lab4</ownerDesignName>
+<engineerTo>
+<item key="14E196B6-D878-4C5D-D830-946CE908CFB0" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<optionalSource>false</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>23224018-BB6C-3643-612B-8D0545E6FC0A</sourceEntity>
+<targetCardinalityString>1</targetCardinalityString>
+<targetEntity>B5299796-597B-40ED-9DAD-2F32E1D031FB</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
